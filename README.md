@@ -37,7 +37,7 @@ Compra de R$ 350,00 → desconto de 15% → paga R$ 297,50 </br></br>
 git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git</br>
 3. Entre na pasta do projeto</br>
 cd NOME-DO-REPOSITORIO</br>
-4. Execute o programa python desconto.py</br>
+4. Execute o programa python app.py</br>
 🖥️ Exemplo de execução</br>
 Insira o valor total da compra: 250</br>
 
