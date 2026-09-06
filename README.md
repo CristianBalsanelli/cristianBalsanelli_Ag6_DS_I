@@ -64,11 +64,6 @@ Neste projeto foram utilizados conceitos importantes de lógica de programação
 Com este projeto, foi possível praticar a utilização de estruturas condicionais para tomar decisões com base em diferentes faixas de valores.</br>
 Também foi possível trabalhar com entrada, processamento e saída de dados, conceitos fundamentais para o desenvolvimento de programas.</br></br>
 
-👨‍💻 Autor</br>
-
-Cristian Balsanelli</br>
-Estudante e desenvolvedor em formação, com interesse em Python, lógica de programação, desenvolvimento de sistemas e tecnologia.</br></br>
-
 📌 Status do projeto</br>
 
 🟢 Concluído</br>
@@ -80,4 +75,17 @@ Validação de valores negativos;</br>
 Exibição do valor do desconto em reais;</br>
 Separação do código em funções;</br>
 Implementação de testes automatizados.</br>
+
+👨‍💻 Autor</br>
+
+Cristian Balsanelli</br>
+Estudante e desenvolvedor em formação, com interesse em Python, lógica de programação, desenvolvimento de sistemas e tecnologia.</br>
+
+GitHub:</br>
+https://github.com/CristianBalsanelli</br>
+
+#Tecnologia usada
+<div style="display: inline_block"><br><img align="center" alt="Python" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+ </div>
  
