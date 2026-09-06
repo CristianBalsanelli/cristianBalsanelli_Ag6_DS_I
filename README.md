@@ -27,45 +27,6 @@ Exemplos </br>
 Compra de R$ 150,00 → desconto de 5% → paga R$ 142,50 </br>
 Compra de R$ 250,00 → desconto de 10% → paga R$ 225,00 </br>
 Compra de R$ 350,00 → desconto de 15% → paga R$ 297,50 </br></br>
-
-💻 Código </br>
-# Autor: Cristian Balsanelli </br>
-# Linguagem: Python 3</br>
-# Programa que calcula o valor a ser pago após o desconto </br>
-# de acordo com o valor da compra.</br>              
-
-# Entrada de dados </br>
-valorCompra = float(input("Insira o valor total da compra: ")) </br>
-
-# Processamento e saída de dados de acordo com o valor da compra </br>
-if valorCompra < 200.00: 
-
-    # Se o valor da compra for menor que R$ 200,00 
-    # aplica-se um desconto de 5% 
-    print("Você recebeu um desconto de 5%") 
-
-    valorDesconto = valorCompra * 0.95 
-
-    print("O valor a ser pago após o desconto é: R$",f"{valorDesconto:.2f}")
-
-elif valorCompra >= 200.00 and valorCompra < 300.00: 
-
-    # Se o valor da compra for maior ou igual a R$ 200,00 
-    # e menor que R$ 300,00, aplica-se um desconto de 10% 
-    print("Você recebeu um desconto de 10%") 
-
-    valorDesconto = valorCompra * 0.90</br>
-    print("O valor a ser pago após o desconto é: R$", f"{valorDesconto:.2f}") 
-
-else: 
-
-    # Se o valor da compra for R$ 300,00 ou mais, 
-    # aplica-se um desconto de 15% 
-    print("Você recebeu um desconto de 15%") 
-
-    valorDesconto = valorCompra * 0.85 
-
-    print("O valor a ser pago após o desconto é: R$",f"{valorDesconto:.2f}")
     
 ▶️ Como executar</br>
 1. Pré-requisito</br>
