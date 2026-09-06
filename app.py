@@ -1,5 +1,5 @@
 #Autor: Cristian Balsanelli
-# Linguagem: Python
+# Linguagem: Python 3
 # Programa que calcula o valor a ser pago após o desconto de acordo com o valor da compra.
 
 #Entrada de dados
